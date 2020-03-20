@@ -1,5 +1,5 @@
 # Stanley Zheng
-- Software Engineer working for the City of New York @ [New York Cyber Command]
+- Software Engineer working for the City of New York @ [New York Cyber Command](https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page
 - Living in Manhattan Chinatown 
 - Founder of a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
 - Loves combining food with photography, nature, and traveling.

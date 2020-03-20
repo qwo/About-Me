@@ -1,6 +1,3 @@
-+++
-
-+++
 # Stanley Zheng
 
 ## Currently

@@ -19,14 +19,14 @@
 
 ## Languages, Skills, Tools
 
-* Avid Python/JavaScript user
-* Heavy Bash/Terraform/Python Scripter for Automation
+* Generic Python/JavaScript user
+* Heavy Bash/Terraform/Python user for Automation
 * Reluctant JVM Java convert
-* Exterimenal Rustacean
+* Experimental Rustacean
 
 ## Favorite/Interests
 
-* Google Clooud Platform
+* Google Cloud Platform
 * Hashicorp
 * Serverless paradigm
 * Distributed Storage
@@ -41,11 +41,11 @@
 
 ### Past Jobs
 
-* Cloudreach
-* Homes.com / Dominion Enerprtises
-* Grow.com
-* xTuple
-* VetroFiberMaps (fmrly nbtsolutions)
+* Cloudreach - Cloud Software Engineer 
+* Homes.com -Experience Software Engineer
+* Grow.com - Backend Developer 
+* xTuple       - Software Engineer Intern
+* VetroFiberMaps (fmr nbtsolutions) - Software Development Intern
 
 ### Past Talks
 

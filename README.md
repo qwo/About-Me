@@ -16,7 +16,7 @@
 
 ## Social
 - [LinkedIn @stanley-zheng](https://linkedin.com/in/stanley-zheng)
-- [TWitter @stanleyzhengnyc](https://instagram.com/stanleyzhengnyc)
+- [Twitter @stanleyzhengnyc](https://instagram.com/stanleyzhengnyc)
 - [Github @stanleyzhengnyc](https://github.com/stanleyzhengnyc)
 - [Instagram @stanleyzhengnyc](https://instagram.com/stanleyzhengnyc)
 

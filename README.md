@@ -58,8 +58,8 @@
 ### Past Talks
 
 * Dockercon'19 - Docker for Everyone 
-* AllThingsOpen'19 - How does a request get to your computer? 
-* RevolutionConf'18
-* HRDevFest'17 - Kubernetes for Everyone 
-* HRDevCon'17 - Kubernetes for Everyone
-* Norfolk.ks
+* AllThingsOpen'19 - How does a request get to your computer?
+* RevolutionConf'18 - How does Google work? 
+* HRDevFest'17 - Kubernetes for Everyone
+* DevCon'17 - Kubernetes for Everyone
+* Norfolk.js 

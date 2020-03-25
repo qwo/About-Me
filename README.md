@@ -43,23 +43,23 @@
 
 ## Past
 
-* Lived in Norfolk, Virginia
-* Emeritus Organizer for [Code for Hamptonn Roads](http://code4hr.org/), a [CodeforAmerica](https://www.codeforamerica.org/) Chapter. EST 2012
-* Emeritus Organizer for \[Norfolk.js\], a Norfolk JavaScipt User Group. EST 2013
+* Lived in [Norfolk, Virginia](https://en.wikipedia.org/wiki/Norfolk,_Virginia)
+* Emeritus Organizer for [Code for Hampton Roads](http://code4hr.org/ "Code"), a [CodeforAmerica](https://www.codeforamerica.org/) Chapter. EST 2012
+* Emeritus Organizer for [Norfolk.js](https://norfolkjs.org), a Norfolk JavaScipt User Group. EST 2013
 
 ### Past Jobs
 
-* Cloudreach - Cloud Software Engineer
-* Homes.com -Experience Software Engineer
-* Grow.com - Backend Developer
-* xTuple       - Software Engineer Intern
-* VetroFiberMaps (fmr nbtsolutions) - Software Development Intern
+* [Cloudreach ](https://www.cloudreach.com/)- Cloud Software Engineer
+* [Homes](https://www.homes.com/ "https://www.homes.com/") -Experience Software Engineer
+* [Grow](https://thisisgrow.com/)- Backend Developer
+* [xTuple](https://www.xtuple.com/) - Software Engineer Intern
+* [VetroFiberMaps (fmr nbtsolutions)](https://www.vetrofibermap.com/) - Software Development Intern
 
 ### Past Talks
 
-* Dockercon'19
-* AllThingsOpen'19
+* Dockercon'19 - Docker for Everyone 
+* AllThingsOpen'19 - How does a request get to your computer? 
 * RevolutionConf'18
-* HRDevFest
-* HRDevCon
+* HRDevFest'17 - Kubernetes for Everyone 
+* HRDevCon'17 - Kubernetes for Everyone
 * Norfolk.ks

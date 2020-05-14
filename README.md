@@ -5,7 +5,7 @@
 * Living in Manhattan, Chinatown
 * Software Engineer working for the City of New York @ [New York Cyber Command](https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page)
 * Founder of a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
-* Blogs at [https://stanleyzhengnyc.github.io/blog/](https://stanleyzhengnyc.github.io/blog/)
+* Blogs at [https://stanleyzhengnyc.github.io/blog/](https://blog.zheng.nyc)
 * Loves combining food with photography, nature, and traveling.
 
 ## Talk to me about

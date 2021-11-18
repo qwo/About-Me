@@ -4,8 +4,8 @@
 
 * Living in Bed-stuy Brooklyn, forever home  -  Chinatown, Manhattan
 * Software Engineer working for the City of New York @ [New York Cyber Command](https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page)
-* Working on a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
 * Blogs at [https://blog.zheng.nyc](https://blog.zheng.nyc)
+* Working on a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
 * Loves combining food with photography, nature, and traveling.
 
 ## Talk to me about

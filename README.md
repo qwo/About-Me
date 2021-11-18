@@ -10,7 +10,7 @@
 
 ## Talk to me about
 
-* **How to become a better programmer.** You can achieve this by spending a one, six, or twelve week self-directed retreat retreat in New York. [Join the Recurse Center!](https://www.recurse-scout.com/loader.js?t=710ee58e0b0ad8d9f443f9c9440137f1)
+* **How to become a better programmer.** You can achieve this by spending a one, six, or twelve week self-directed retreat retreat in New York. [Join the Recurse Center!](* https://www.recurse.com/scout/click?t=710ee58e0b0ad8d9f443f9c9440137f1)
 * **Going cloud-native**. Using Google Cloud Platform and Amazon Web Services to solve data, application, and infrastructure problems. [Talk to us at hyperdrive](stanley@hyperdrive.tech)
 * **Getting into Civic Hacking** Changing ways you interact with your neighbors, communities, and local government through Civic Hacking and using you tech skills.
 * **Building Inclusive Communities**. Advocating for inclusive and accessible tech products and inclusive tech pipeline for future engineers.

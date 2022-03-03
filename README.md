@@ -20,7 +20,6 @@
 * [LinkedIn @stanley-zheng](https://linkedin.com/in/stanley-zheng)
 * [Twitter @stanzheng](https://twitter.com/stanzheng)
 * [Github @stanzheng](https://github.com/stanzheng)
-* [Instagram @stanleyzheng_](https://instagram.com/stanleyzheng_)
 
 ## Languages, Skills, Tools
 

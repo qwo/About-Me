@@ -2,21 +2,24 @@
 
 ## Currently
 
-* Living in Bed-stuy Brooklyn, forever home  -  Chinatown, Manhattan
+* Living in Chinatown, New York City (my forever home )
 * Software Engineer working for the City of New York @ [New York Cyber Command](https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page)
 * Blogs at [https://blog.zheng.nyc](https://blog.zheng.nyc)
+* Volunteers and Builds at [https://sendchinatownlove.com](https://sendchinatownlove.com)
 * Working on a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
 * Loves combining food with photography, nature, and traveling.
 
 ## Talk to me about
 
 * **How to become a better programmer.** You can achieve this by spending a one, six, or twelve week self-directed retreat retreat in New York. [Join the Recurse Center!](https://www.recurse.com/scout/click?t=710ee58e0b0ad8d9f443f9c9440137f1)
-* **Going cloud-native**. Using Google Cloud Platform and Amazon Web Services to solve data, application, and infrastructure problems. [Talk to us at hyperdrive](stanley@hyperdrive.tech)
+* **Going cloud-native**. Using Google Cloud Platform and Amazon Web Services to solve data, application, and infrastructure problems. [Email us  stanley@hyperdrive.tech](stanley@hyperdrive.tech)
 * **Getting into Civic Hacking** Changing ways you interact with your neighbors, communities, and local government through Civic Hacking and using you tech skills.
 * **Building Inclusive Communities**. Advocating for inclusive and accessible tech products and inclusive tech pipeline for future engineers.
+* **Chinatown and Food!** I love sharing Chinatown with everyone, ask me for food recommendations, ways you can contribute to the community, or all things aapi. 
 
 ## Social
 
+* [Calendly @ stanleyz](https://calendly.com/stanleyz)
 * [LinkedIn @stanley-zheng](https://linkedin.com/in/stanley-zheng)
 * [Twitter @stanzheng](https://twitter.com/stanzheng)
 * [Github @stanzheng](https://github.com/stanzheng)

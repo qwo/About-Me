@@ -7,6 +7,7 @@
 * Blogs at [https://blog.zheng.nyc](https://blog.zheng.nyc)
 * Volunteers and Builds at [https://sendchinatownlove.com](https://sendchinatownlove.com)
 * Working on a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
+* My resume can be found [here.](https://drive.google.com/file/d/12KypUsEreceHcjvNqZEnFCmmWWlciiNX/view?usp=sharing)
 * Loves combining food with photography, nature, and traveling.
 
 ## Talk to me about

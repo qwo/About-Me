@@ -1,7 +1,8 @@
 # Stanley Zheng
 
 ## Currently
-* Security Infrastructure Engineer @ [Voltus](https://www.voltus.co/)
+* Security Infrastructure Engineer @ [Voltus](https://www.voltus.co/). 
+Voltus aims to be the distributed energy platform that fulfills the promise of the energy transition.
 * Living in Brooklyn / Prospect Lefferts Park (PLG) with my partner and two cats [Keke and Momo](https://www.instagram.com/keke_and_momo/).
 * My forever-home will be Manhattan Chinatown in NYC.
 * (Previously) Software Engineer working for the City of New York @ [New York Cyber Command]([https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page](https://www.nyc.gov/content/oti/pages/who-we-are))

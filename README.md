@@ -1,14 +1,15 @@
 # Stanley Zheng
 
 ## Currently
-
-* Living in Chinatown, New York City (my forever home )
-* Software Engineer working for the City of New York @ [New York Cyber Command](https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page)
+* Security Infrastructure Engineer @ [Voltus](https://www.voltus.co/)
+* Living in Brooklyn / Prospect Lefferts Park (PLG) with my partner and two cats [Keke and Momo](https://www.instagram.com/keke_and_momo/).
+* My forever-home will be Manhattan Chinatown in NYC.
+* (Previously) Software Engineer working for the City of New York @ [New York Cyber Command]([https://www1.nyc.gov/site/cyber/about/about-nyc-cyber-command.page](https://www.nyc.gov/content/oti/pages/who-we-are))
 * Blogs at [https://blog.zheng.nyc](https://blog.zheng.nyc)
 * Volunteers and Builds at [https://sendchinatownlove.com](https://sendchinatownlove.com)
 * Working on a cloud-native startup [hyperdrive.tech](https://hyperdrive.tech)
 * My resume can be found [here.](https://drive.google.com/file/d/1CtVdZC84VkiOcja52WwBT48UNzhh_tyr/view?usp=sharing)
-* Loves combining food with photography, nature, and traveling.
+* Loves combining food with photography, nature, and travel.
 
 ## Talk to me about
 
